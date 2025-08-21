@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>ORI is learning React 🚀</h1>
+        <h1>shaharr is learning React 🚀</h1>
         console.log("Hello Git!");
         <p>
           Edit <code>src/App.js</code> and save to reload.
