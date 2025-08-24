@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>shahar is learning React 🚀 update homepage text again </h1>
         console.log("Hello Git!");
+        <p>Now with GitHub integration ✅</p>
+
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
