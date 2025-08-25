@@ -10,9 +10,7 @@ function App() {
         console.log("Hello Git!");
         <p>Now with GitHub integration ✅</p>
 
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <p>Made by Shahar 🚀</p>
         <a
           className="App-link"
           href="https://reactjs.org"
